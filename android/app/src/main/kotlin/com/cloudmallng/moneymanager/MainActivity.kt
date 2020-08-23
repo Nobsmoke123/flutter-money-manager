@@ -1,0 +1,6 @@
+package com.cloudmallng.moneymanager
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
